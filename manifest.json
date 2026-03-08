@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "lead tracker",
+  "version": "1.0",
+  "description": "A Chrome extension to save user leads",
+  
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
